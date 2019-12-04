@@ -1,0 +1,1 @@
+describe('Sample test area', () => {});
